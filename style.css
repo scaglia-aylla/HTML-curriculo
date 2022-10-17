@@ -1,0 +1,41 @@
+html{
+    background-color: cadetblue;
+    background-image: url(hands.jpg);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+h1{
+    color: black;
+}
+h1 span{
+    color: black;
+}
+h2{
+    color: darkslategrey;
+}
+ol{
+    color: darkgoldenrod;
+}
+ol li{
+    color: chocolate;
+}
+ol article{
+    color: black;
+}
+a {
+    color: seagreen;
+    cursor: pointer ;
+}
+li a{
+    color: #16600A;
+}
+.box-sobreMim{
+    box-sizing: border-box;
+    width: 30%;
+    height: 30%;
+    color: rgb(39, 39, 2);
+    font-size: 20px;
+    padding: 5px 5px;
+    margin: center ;
+}
